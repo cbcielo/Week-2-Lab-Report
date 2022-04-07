@@ -24,4 +24,4 @@ Once downloaded, open the application. You should see an a screen like/similar t
 
 > This is your **Homepage**.
 
-**Congrats! You have  succsessfully downloaded and installed Visual Studio Code!**
+**Congrats! You have succsessfully downloaded and installed Visual Studio Code!**
