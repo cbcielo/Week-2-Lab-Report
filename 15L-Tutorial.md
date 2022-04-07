@@ -3,7 +3,7 @@ Welcome to my tutorial. On this page, I will guide you through how to:
 
 * Install Visual Studio Code
 * Remotely connect to a Remote Computer
-* Use some basic commands
+* Using basic commands
 * Move files using the `scp` command
 * Set an SSH Key
 * Optimize Remote Running
@@ -44,3 +44,38 @@ Prompt `$  ssh cs15lsp22zz@ieng6.ucsd.edu` in the command like and press enter.
 Your terminal should look similar to this:
 
 **Insert Screenshot**
+
+---
+## Using Basic Commands 
+
+The next step is to test out some basic commands in the terminal. 
+
+**Here are some commands to try in the terminal and what they do:**
+
+* `cd` : change directory; this command will allow you to change between the working directories
+* `ls` and  `-lat` : `ls` and `ls -lat` (local area transport) lists the computer files in UNIX and shows the decending order of the files of when the last file was opened (respectively)
+* `/home/linux/ieng6/cs15lsp22/cs15lsp22abc` (where `abc` is a username different from your own): shows that you are only able to open your account and not able to access other group members' username
+
+> Here are some examples of the `cd` and `ls -lat` outputs 
+
+![image](cdTest.png)
+
+---
+
+## Moving Files with `scp`
+
+The `scp` command allows you to copy a single or multiple files from your device (the *client*) to a remote computer. 
+
+**FINISH**
+---
+
+## Setting an SSH Key
+
+**FINISH**
+
+---
+
+## Optimize your Remote Running 
+**FINISH**
+
+---
