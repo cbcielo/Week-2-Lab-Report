@@ -67,9 +67,20 @@ The next step is to test out some basic commands in the terminal.
 The `scp` command allows you to copy a single or multiple files from your device (the *client*) to a remote computer. 
 
 **FINISH**
+
 ---
 
 ## Setting an SSH Key
+
+By default, when you log into a remote server to run copy and run commands, you must log in by filling out your password each time, which can add up. Creating an `ssh` key will allow us to log in faster by letting us bypass the password entry.
+
+`ssh key` is short for `ssh-keygen`, and **creates a public and private key file**.
+
+> The public and private key will be replaced by the `ssh` command that will take that key in place of your password.
+
+Here is an example of what the setup should look like:
+
+
 
 **FINISH**
 
@@ -79,3 +90,4 @@ The `scp` command allows you to copy a single or multiple files from your device
 **FINISH**
 
 ---
+**Congrats!  You have completed the tutorial!**
