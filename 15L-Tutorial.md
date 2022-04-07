@@ -23,3 +23,5 @@ Once downloaded, open the application. You should see an a screen like/similar t
 ![Image](VSCodeHome.png)
 
 > This is your **Homepage**.
+
+**Congrats! You have  succsessfully downloaded and installed Visual Studio Code!**
