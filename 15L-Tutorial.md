@@ -66,8 +66,19 @@ The next step is to test out some basic commands in the terminal.
 
 The `scp` command allows you to copy a single or multiple files from your device (the *client*) to a remote computer. 
 
-To try out this command, create a new file
-**FINISH**
+* To try out this command, make a new java file or take an old, basic java file and run it using `javac` and `java`
+
+* From the same terminal, insert and run the command `scp InsertNameOfFileHere.java cs15lsp22zz@ieng6.ucsd.edu:~/` where "zz" is the letters of your course related login information.
+
+> Note: you will be asked to type in your password
+
+* Once you are logged into `ssh`, use the command `ls` and you should now be able to see the name of your chosen file show in your directory.
+
+Your terminal should look siumilar to this:
+
+![Image](scp.png)
+
+**Congrats! You are now able to run your code on the *ieng6 computer*!**
 
 ---
 
