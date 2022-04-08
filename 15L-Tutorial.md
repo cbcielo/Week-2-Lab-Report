@@ -90,15 +90,32 @@ By default, when you log into a remote server to run copy and run commands, you 
 
 > The public and private key will be replaced by the `ssh` command that will take that key in place of your password.
 
-Here is an example of what the setup should look like:
+Here is an example of what the setup should look like and what the prompted message should look like:
 
+![Image](keygen.png)
 
+> This essentially creates the private and public key in files called `id_rsa` and `id_rsa.pub` respectively and stores them in the `.ssh` direcrtory.
 
-**FINISH**
+* In order to copy the public key to the `.ssh` directory of your specific account on the server to bypass the password prompt:
+
+1. log out of the server (if already logged in) using  `mkdir .ssh`.  This will take you back to the client
+2. Insert `$ scp/Users/user-name/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys` (where username is **your** username and zz corresponds with the letters of your accound) in the command line and run.
+
+You should now be able to run the `ssh` and `scp` commands without having to enter you password!!!
+
+**Congrats! You have now saved yourself some time from connecting!**
 
 ---
 
 ## Optimize your Remote Running 
+
+You're almost done! Here are some ways that you can make local edits to your file for pleasant:
+
+* Use the up arrow on your keyboard to recall the last commands that were called so you don't have to retype long command lines!
+* You can use ";" to separate different commands in the same command line to run multiple commands in one line 
+> EX: `$ cp hello.java info.java; javac info.java; java hello`
+
+
 **FINISH**
 
 ---
