@@ -43,7 +43,7 @@ Prompt `$  ssh cs15lsp22zz@ieng6.ucsd.edu` in the command like and press enter.
 
 Your terminal should look similar to this:
 
-**Insert Screenshot**
+![Image](ssh.png)
 
 ---
 ## Using Basic Commands 
