@@ -66,6 +66,7 @@ The next step is to test out some basic commands in the terminal.
 
 The `scp` command allows you to copy a single or multiple files from your device (the *client*) to a remote computer. 
 
+To try out this command, create a new file
 **FINISH**
 
 ---
