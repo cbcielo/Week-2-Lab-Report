@@ -116,11 +116,11 @@ You're almost done! Here are some ways that you can make local edits to your fil
 
 * Use the up arrow on your keyboard to recall the last commands that were called so you don't have to retype long command lines!
 * You can use ";" to separate different commands in the same command line to run multiple commands in one line 
-> EX: `$ cp hello.java info.java; javac info.java; java hello`
+> EX: `$ cp hello.java info.java; javac info.java; java hello` 
 
 The screenshot below is an example of compiling on separate command lines versus on the same line (which is more time efficient!) (the example above!)
 
 ![Image](part7.png)
 
 ---
-**Congrats!  You have completed the tutorial!**
+**Congrats! You have completed the tutorial! Thabk you for following along!**
