@@ -74,7 +74,7 @@ The `scp` command allows you to copy a single or multiple files from your device
 
 * Once you are logged into `ssh`, use the command `ls` and you should now be able to see the name of your chosen file show in your directory.
 
-Your terminal should look siumilar to this:
+Your terminal should look siumilar to this (here I am using a file called `WhereAmI.java` that tells some simple information about my device and location):
 
 ![Image](scp.png)
 
