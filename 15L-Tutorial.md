@@ -1,5 +1,8 @@
 # Week 2 Lab Report
+>Note: I am writing this in the context of the steps  I followed to achieve these points and am writing from the perspective of teaching someone how to do it as well. Each step describes what I did to achieve each goal.
+
 Welcome to my tutorial. On this page, I will guide you through how to:
+
 
 * Install Visual Studio Code
 * Remotely connect to a Remote Computer
@@ -115,8 +118,9 @@ You're almost done! Here are some ways that you can make local edits to your fil
 * You can use ";" to separate different commands in the same command line to run multiple commands in one line 
 > EX: `$ cp hello.java info.java; javac info.java; java hello`
 
+The screenshot below is an example of compiling on separate command lines versus on the same line (which is more time efficient!) (the example above!)
 
-**FINISH**
+![Image](part7.png)
 
 ---
 **Congrats!  You have completed the tutorial!**
