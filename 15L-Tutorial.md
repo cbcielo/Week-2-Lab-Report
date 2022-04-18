@@ -123,4 +123,4 @@ The screenshot below is an example of compiling on separate command lines versus
 ![Image](part7.png)
 
 ---
-**Congrats! You have completed the tutorial! Thabk you for following along!**
+**Congrats! You have completed the tutorial! Thank you for following along!**
