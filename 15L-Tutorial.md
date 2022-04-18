@@ -1,7 +1,7 @@
 # Week 2 Lab Report
 > Note: I am writing this in the context of the steps  I followed to achieve these points and am writing from the perspective of teaching someone how to do it as well. Each step describes what I did to achieve each goal.
 
-Welcome to my tutorial. On this page, I will guide you through how to:
+Welcome to my tutorial. On this page, I will guide you through how to: 
 
 
 * Install Visual Studio Code
